@@ -1,5 +1,4 @@
-﻿import java.util.Scanner;
-
+import java.util.Scanner;
 /**
  * 
  *  Clase para testear la clase Podometro
